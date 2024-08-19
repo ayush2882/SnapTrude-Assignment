@@ -1,0 +1,28 @@
+{
+	"info": {
+		"_postman_id": "dc089100-8ee2-4a62-af62-94dd7c2e2ada",
+		"name": "SnapTrude-Assigment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "37763498"
+	},
+	"item": [
+		{
+			"name": "Get Version API",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://a1c29bf14a7494d9698dcfb3a4a2a899-606520360.us-east-1.elb.amazonaws.com/version"
+			},
+			"response": []
+		},
+		{
+			"name": "Hitting the Load Balancer External IP",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://a1c29bf14a7494d9698dcfb3a4a2a899-606520360.us-east-1.elb.amazonaws.com"
+			},
+			"response": []
+		}
+	]
+}
