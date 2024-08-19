@@ -1,2 +1,0 @@
-# SnapTrude-Assignment
-Assignment Files
